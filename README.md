@@ -1,4 +1,4 @@
-# Nodejumper
+# Nodejumper by Sen
 
 The project is intended to provide snapshot and state sync via RPC’s services for cosmos blockchains. It relies on dedicated server infrastructure.
 
